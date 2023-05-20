@@ -1,4 +1,4 @@
-Here is a simple flow chart:
+Exercise 0.4 New note diagram
 
 ```mermaid
 sequenceDiagram
